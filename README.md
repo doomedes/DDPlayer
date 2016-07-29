@@ -3,11 +3,11 @@
 
 注意FFMPeg的配置可以在网上查找！
 
-DDPlayer分为三部分：
-DDAudioManager 音频播放队列
-DDDecoder   视频文件解码
-DDPlayer   通过DDDecoder解码将音频数据与视频帧分别通过DDAudioManager添加到音频播放队列中，将视频帧转换为图片显示！
-具体逻辑可以查看代码代码
+DDPlayer分为三部分： <br />
+DDAudioManager 音频播放队列 <br />
+DDDecoder   视频文件解码 <br />
+DDPlayer   通过DDDecoder解码将音频数据与视频帧分别通过DDAudioManager添加到音频播放队列中，将视频帧转换为图片显示！ <br />
+具体逻辑可以查看代码代码 <br />
 
 
 <pre><code>
